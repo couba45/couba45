@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg)](https://rishavchanda.io)
+![Header](./github-header-image.png)
 
 # 🏄‍♂️ Hi there, I am Diego Escalante
 
