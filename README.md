@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
 
-# 🏄‍♂️ Hi there, I am Diego Escalante
-
 **`Full-stack Developer`**
 
 🎓 **Camosun College Graduate | Information and Computer Systems | Web & Software Development Enthusiast** 🚀
