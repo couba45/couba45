@@ -2,23 +2,23 @@
 
 **`Full-stack Developer`**
 
-🎓 Camosun College Graduate | Information and Computer Systems | Web & Software Development Enthusiast 🚀
+🎓 **Camosun College Graduate | Information and Computer Systems | Web & Software Development Enthusiast** 🚀
 
 Hello! I'm a resourceful and enthusiastic college graduate from Camosun College, passionate about exploring the diverse facets of web and software development. With a strong foundation in databases and frameworks, I'm committed to continual learning and adapting to the ever-evolving tech landscape.
 
-🧩 Problem-Solving Extraordinaire 🛠️
+🧩 **Problem-Solving Extraordinaire** 🛠️
 
 I thrive on solving complex problems and relish the challenge of crafting innovative solutions. My knack for dissecting issues and finding creative ways to overcome them has been a cornerstone of my journey in this field.
 
-👨‍💻 Adaptable & Committed 📚
+👨‍💻 A**daptable & Committed** 📚
 
 I understand that the tech world is dynamic, and I'm always ready to pivot to meet the needs of a project or organization. My commitment to learning and staying up-to-date with the latest trends ensures I can contribute effectively to any team.
 
-🤝 Collaborative Team Player 🤝
+🤝 **Collaborative Team Player** 🤝
 
 I value collaboration and believe that the best results come from working together. As a well-rounded professional, I enjoy being part of a team, sharing knowledge, and contributing to collective success.
 
-🔗 Connect With Me 🔗
+🔗 **Connect With Me** 🔗
 
 If you're looking for a versatile and reliable teammate or someone passionate about web and software development, let's connect! I'm excited to explore opportunities, share insights, and continue my journey in the ever-evolving world of technology.
 
