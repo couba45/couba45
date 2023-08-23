@@ -1,3 +1,5 @@
+[![MasterHead](https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg)](https://rishavchanda.io)
+
 # 🏄‍♂️ Hi there, I am Diego Escalante
 
 **`Full-stack Developer`**
