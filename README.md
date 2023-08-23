@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_ABH4daXFW8AAAAM/lofi.gif"/>
+<img align="right" alt="Coding" width="400" style="border-radius: 50%;" src="https://media.tenor.com/_ABH4daXFW8AAAAM/lofi.gif"/>
 🎓 **Camosun College Graduate | Information and Computer Systems | Web & Software Development Enthusiast** 🚀
 
 Hello! I'm a resourceful and enthusiastic college graduate from Camosun College, passionate about exploring the diverse facets of web and software development. With a strong foundation in databases and frameworks, I'm committed to continual learning and adapting to the ever-evolving tech landscape.
